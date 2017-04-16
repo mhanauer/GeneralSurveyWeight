@@ -1,5 +1,5 @@
 ---
-title: "GeneralSurveyWeight"
+title: "Survey Weights in R"
 output: html_document
 ---
 
